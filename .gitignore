@@ -2,3 +2,4 @@
 /docs/.vitepress/cache/
 /.vscode/
 /node_modules/
+/docs/.vitepress/dist/
