@@ -5,7 +5,9 @@ layout: home
 hero:
   name: "sbx0's blog"
   text: "知行合一"
-  tagline: Learning & Life & Share
+  tagline: Life & Share
 ---
 
-<!--@include: ./life/travel/travel-hk.md -->
+<!--@include: ./life/travel/travel-hk.md{1,13} -->
+
+[查看更多](./life/travel/travel-hk.md)
